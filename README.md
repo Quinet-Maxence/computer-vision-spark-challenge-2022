@@ -118,4 +118,5 @@ This repository contains the following main Python files:
 ## 📜 Credits  
 - **Author**: Maxence QUINET  
 - **Challenge Organizers**: [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://www.uni.lu/snt/)  
-- **Official Challenge Page**: [SPARK 2022](https://cvi2.uni.lu/spark2022/)  
+- **Official Challenge Page**: [SPARK 2022](https://cvi2.uni.lu/spark2022/) 
+- **Reference** : [Object Detection Algorithms Techniques](https://www.researchgate.net/publication/379120594_Object_Detection_Algorithms_Techniques)
